@@ -21,7 +21,7 @@ title                    : "Donghyun Kim"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donghyun Kim"
-description              : "Dongha Kim's website"
+description              : "Donghyun Kim's website"
 url                      : "https://jakio815.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Jakio815/Jakio815.github.io"
