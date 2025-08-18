@@ -22,9 +22,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Donghyun Kim"
 description              : "Donghyun Kim's website"
-url                      : "https://jakio815.github.io"
+url                      : "https://DonghyunKim0526.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "Jakio815/Jakio815.github.io"
+repository               : "DonghyunKim0526/DonghyunKim0526.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/cactus.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
